@@ -1,0 +1,15 @@
+E:\c_sharp\task_66\bin\Debug\net6.0\task_66.exe
+E:\c_sharp\task_66\bin\Debug\net6.0\task_66.deps.json
+E:\c_sharp\task_66\bin\Debug\net6.0\task_66.runtimeconfig.json
+E:\c_sharp\task_66\bin\Debug\net6.0\task_66.dll
+E:\c_sharp\task_66\bin\Debug\net6.0\task_66.pdb
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.csproj.AssemblyReference.cache
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.AssemblyInfoInputs.cache
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.AssemblyInfo.cs
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.csproj.CoreCompileInputs.cache
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.dll
+E:\c_sharp\task_66\obj\Debug\net6.0\refint\task_66.dll
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.pdb
+E:\c_sharp\task_66\obj\Debug\net6.0\task_66.genruntimeconfig.cache
+E:\c_sharp\task_66\obj\Debug\net6.0\ref\task_66.dll
